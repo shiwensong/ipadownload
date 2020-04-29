@@ -36,7 +36,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mcrazy.Mytest</string>
+				<string>com.cqxsd.ymorder</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
